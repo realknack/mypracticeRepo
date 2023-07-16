@@ -1,4 +1,4 @@
-teams = ['Manchester United', 'Chelsea fc', 'Arsenal fc', 'Manchester city', 'Liverpool', 'leicester city']
+teams = ['Manchester United', 'Chelsea fc', 'Arsenal fc', 'Manchester city', 'Liverpool', 'leicester city', 'Westham', 'Newcastle']
 for home_team in teams:
     for away_team in teams:
         if home_team != away_team:
